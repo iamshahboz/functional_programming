@@ -1,4 +1,4 @@
 # functional_programming
 
-#I have shown example codes about functional programming in Python as well as explanations
+# Explained what is functional programming and written example codes [functional programming primitives]
 
